@@ -1,18 +1,16 @@
-# Hi there. Im Mark 👋
+# Hi there. Im Mark
 
-## About Me!
-I am a Software Developer who is currently doing there last year of University and Im trying to do more personal projects around my university projects for this year
-<!--
-**Kaos455/Kaos455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Software Developer and recent university graduate with strong interest in building practical real-world applications
 
-Here are some ideas to get you started:
+I actively work on personal projects and continue developing my skills, explore new technologies, and strengthen my problem-solving abilities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in:
+
+- Continuously improving my technical skill set by exploring new languages
+- Applying best practices and development patterns wherever possible
+
+
+Feel Free to explore my repositories and follow me as I grow as a developer
+
+---
